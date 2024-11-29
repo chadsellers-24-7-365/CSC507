@@ -1,7 +1,3 @@
-### Repository README: Final Project - Big Data Processing
-
----
-
 # Big Data Processing Using Python
 
 ## Overview
